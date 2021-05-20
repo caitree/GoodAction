@@ -3,6 +3,8 @@ Created on April 2020
 
 @author: Vu Nguyen
 
+Reference Link : https://github.com/ntienvu/MiniBO
+
 Implementation of the GP model
 """
 

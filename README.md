@@ -1,7 +1,7 @@
 # Good-Action Identification
-Code for *Lenient Regret and Good-Action Identification in Gaussian Process Bandits*
+Code for ICML 2021 paper [*Lenient Regret and Good-Action Identification in Gaussian Process Bandits*](https://arxiv.org/pdf/2102.05793.pdf)
 
-Copyright by the authors
+Copyright by the authors: Xu Cai, [Selwyn Gomes](https://selwyn96.github.io) and [Jonathan Scarlett](https://www.comp.nus.edu.sg/~scarlett/)
 
 
 

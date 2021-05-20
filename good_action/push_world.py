@@ -1,6 +1,8 @@
 """
 Authors: Ari Anders and Zi Wang
 
+Reference Link : https://github.com/zi-w/Max-value-Entropy-Search
+
 Implementation of robot pushing experiment
 """
 
